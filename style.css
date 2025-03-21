@@ -1,6 +1,12 @@
-header {
- background-color: #7c338b;
- colo: white;
+.cabecalho.imagem{
+  width: 20%;
 }
+.cabecalho { 
+  background-color: #7c338b;
+ colo: white; 
+display:flex;
+justify-content: space-around;
+}
+
 <title>Document</title>
-  <link real="stylesheet" href="style.css">
+ <link real="stylesheet" href="style.css">
